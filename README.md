@@ -1,1 +1,1 @@
-PrivacyPolicyURL {"policyStr":"http://www.qhcftong.com/download.html", "time":"7：00 am - 7:00pm","foodName":"coffee"}
+PrivacyPolicyURL {"policyStr":"https://pan.wps.cn/l/s4i4968", "time":"7：00 am - 7:00pm","foodName":"tea"}
